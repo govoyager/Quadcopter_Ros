@@ -2,12 +2,7 @@
 # ROS-Quadcopter-Simulation
 This is an on-going project on simulating drone and stabilizing it using Approximate Dynamic Programming on ROS-Gazebo (melodic version of ROS and Gazebo version 9)
 
-This is a simulation of Joop-Brokking's Quadcopter. He has great tutorial videos on YouTube:
-
-YouTube Channel: https://www.youtube.com/channel/UCpJ5uKSLxP84TXQtwiRNm1g
-
-Website: http://www.brokking.net/
-
+This is a simulation of Quadcopter.
 
 The Model of the Quad is written in .xacro format, and is imported in Gazebo simulator.
 
